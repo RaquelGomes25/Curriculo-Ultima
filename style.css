@@ -1,0 +1,19 @@
+.header{
+    background-color: #b9f9fc; 
+    text-align: center;
+    height: 150px; 
+}
+.footer{
+    background-color: #b9f9fc; 
+    height: 50px;
+    
+}
+td {
+    border: 5px solid transparent;
+    text-align:center;
+    width:10%;
+    font-size: 15spx;
+}
+
+
+
